@@ -1,3 +1,3 @@
 # MyFirstRepo
 ## Dominick
-https://www.markdownguide.org/cheat-sheet/
+[cheat Cheat] https://www.markdownguide.org/cheat-sheet/
